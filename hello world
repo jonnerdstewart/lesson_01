@@ -1,0 +1,5 @@
+#lnclude ,stdio.h.
+{
+int main(void)
+}
+printf("hello, %i\n");
